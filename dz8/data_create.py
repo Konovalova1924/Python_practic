@@ -4,3 +4,5 @@ def input_user_data():
     phone = input("Введите телефон: ")
     adress = input("Введите адрес: ")
     return name, surname, phone, adress
+
+#1
